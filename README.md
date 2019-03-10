@@ -1,1 +1,0 @@
-# curtishiga.github.io
