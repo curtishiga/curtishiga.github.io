@@ -2,8 +2,7 @@ This site showcases data science projects I've worked on in my free time. At the
 are broken down into machine learning projects and full end-to-end projects presented as iPython Notebooks.
 
 
-# Machine Learning
-___
+## Machine Learning
 - [Predict Future Sales](https://github.com/curtishiga/Predict_Fututre_Sales): Using 2.5 years worth of data, 
 a random forest, XGBoost, and a recurrent neural network were developed to predict how many items each shop will 
 sell in the following month. 
@@ -11,8 +10,7 @@ sell in the following month.
 - [Pet Adoption Prediction](https://github.com/curtishiga/PetFinder_Adopt_Prediction): *In Progress*
 
 
-# End-to-End Projects
-___
+## End-to-End Projects
 - [Bay Area Housing](https://github.com/curtishiga/Capstone_Project1): ARIMA models were created to predict the 
 trend of Bay Area housing by county. Data was taken from the Zillow API and the models were trained on data from 
 January 2010 to April 2018.
