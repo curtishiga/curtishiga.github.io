@@ -1,5 +1,3 @@
-# Data Science Portfolio
-
 This site showcases data science projects I've worked on in my free time. At the moment, they
 are broken down into machine learning projects and full end-to-end projects presented as iPython Notebooks.
 
