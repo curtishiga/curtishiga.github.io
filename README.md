@@ -7,7 +7,9 @@ are broken down into machine learning projects and full end-to-end projects pres
 a random forest, XGBoost, and a recurrent neural network were developed to predict how many items each shop will 
 sell in the following month. 
 
-- [Pet Adoption Prediction](https://github.com/curtishiga/PetFinder_Adopt_Prediction): *In Progress*
+- [Pet Adoption Prediction](https://github.com/curtishiga/PetFinder_Adopt_Prediction): Given descriptions of rescued pets
+along with image and sentiment analysis based on inputs given by the rescuer, multiple models were produced to predict how
+long it'll take for a pet to be adopted.
 
 
 ## End-to-End Projects
