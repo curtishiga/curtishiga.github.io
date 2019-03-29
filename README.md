@@ -2,6 +2,9 @@ This site showcases data science projects I've worked on in my free time. At the
 are broken down into machine learning projects and full end-to-end projects presented as iPython Notebooks.
 
 
+## Data Wrangling and Visualization
+- [MyFitbit](https://github.com/curtishiga/MyFitBit): *In Progress* As someone who has suffered from chronic migraines and even been diagnosed with moderate sleep apnea, this project takes data from my personal Fitbit to here investigate my sleep patterns.
+
 ## Machine Learning
 - [Predict Future Sales](https://github.com/curtishiga/Predict_Fututre_Sales): Using 2.5 years worth of data, 
 a random forest, XGBoost, and a recurrent neural network were developed to predict how many items each shop will 
