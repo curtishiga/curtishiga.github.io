@@ -3,7 +3,7 @@ are broken down into machine learning projects and full end-to-end projects pres
 
 
 # Data Wrangling and Visualization
-- [MyFitbit](https://github.com/curtishiga/MyFitBit): (*In Progress*) As someone who has suffered from chronic migraines and even been diagnosed with moderate sleep apnea, this project takes data from my personal Fitbit to here investigate my sleep patterns.
+- [MyFitbit](https://github.com/curtishiga/MyFitBit): As someone who has suffered from chronic migraines and even been diagnosed with moderate sleep apnea, this project takes data from my personal Fitbit to here investigate my sleep patterns.
 
 # Machine Learning
 - [Predict Future Sales](https://github.com/curtishiga/Predict_Fututre_Sales): Using 2.5 years worth of data, 
