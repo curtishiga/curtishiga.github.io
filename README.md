@@ -3,7 +3,7 @@ are broken down into machine learning projects and full end-to-end projects pres
 
 
 # Data Wrangling and Visualization
-- [MyFitbit](https://github.com/curtishiga/MyFitBit): As someone who has suffered from chronic migraines and even been diagnosed with moderate sleep apnea, this project takes data from my personal Fitbit to here investigate my sleep patterns.
+- [Sleep Analysis with Fitbit Data](https://github.com/curtishiga/MyFitBit): As someone who has suffered from chronic migraines and even been diagnosed with moderate sleep apnea, this project takes data from my personal Fitbit to here investigate my sleep patterns.
 
 # Machine Learning
 - [Predict Future Sales](https://github.com/curtishiga/Predict_Fututre_Sales): Using 2.5 years worth of data, 
@@ -16,12 +16,11 @@ long it'll take for a pet to be adopted.
 
 
 # End-to-End Projects
-- [Bay Area Housing](https://github.com/curtishiga/Capstone_Project1): ARIMA models were created to predict the 
+- [Time Series Analysis of Bay Area Housing Prices](https://github.com/curtishiga/Capstone_Project1): ARIMA models were created to predict the 
 trend of Bay Area housing by county. Data was taken from the Zillow API and the models were trained on data from 
 January 2010 to April 2018.
 
-- [MLB Pitching](https://github.com/curtishiga/Capstone_Project2): Using pitching data from the MLB 2015-2017 regular 
-seasons, numerous neural networks were designed to predict the outcome of a pitch.
+- [Using Neural Networks to Predict MLB Pitching Results](https://github.com/curtishiga/Capstone_Project2): Using pitching data from the MLB 2015-2017 regular seasons, numerous neural networks were designed to predict the outcome of a pitch.
 
 
 # Springboard Data Science Career Track
